@@ -49,6 +49,7 @@ function App() {
           target="_blank"
           download={dummyPDF}
           Content-Disposition={dummyPDF}
+          rel="noreferrer"
         >
          Download PDF
         </a>
